@@ -1,3 +1,7 @@
+# Use case description 
+
+홈 화면에서 버튼을 출력하는 System Response는 생략
+
 ### Use case description: 자전거 대여
 
 | Actor Action                                                    | System Response                                           |
