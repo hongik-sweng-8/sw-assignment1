@@ -91,7 +91,7 @@ Extensions:
 ### Use case description : 대여소 검색
 | Actor Action | System Response |
 |--------------|-----------------|
-| |1. 대여소 검색 화면 출력  |
+|none |1. 대여소 검색 화면 출력  |
 |2. 대여소 검색값 입력  |3. 대여소 리스트 출력 |
 
 ---
