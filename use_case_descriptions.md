@@ -94,8 +94,22 @@ Extensions:
 | |1. 대여소 검색 화면 출력  |
 |2. 대여소 검색값 입력  |3. 대여소 리스트 출력 |
 
-----
-### Use case description : 대여소 정보 조회
+---
+
+### Use case description : 자전거 대여정보 조회
+|Actor Action | System Response |
+|-------------|-----------------|
+|1. None | 2. 자전거 대여 정보를 반납 시간 기준 최근순으로 정렬해 출력 |
+
+Extensions:
+` After description 2
+|Actor Acction | System Response |
+|--------------|-----------------|
+|3. 대여정보 정렬 기준을 최근순에서 지역별로 변경 | 2. 자전거 대여 정보를 지역별 기준으로 정렬해 출력 |
+
+---
+
+### Use case description : 대여 금액, 대여 횟수 조회
 | Actor Action | System Response |
 |--------------|-----------------|
 |1. None |2. 자전거 대여 금액과 대여 횟수를 조회 가능 화면 출력 |
@@ -106,7 +120,9 @@ Extensions:
 |--------------|-----------------|
 |3. (1주일, 1개월, 1년) 중 대여금액과 대여 횟수를 조회할 단위 선택 | 4. 해당되는 기간의 대여금액과 대여 횟수를 출력 |
 
-### Use case description : 대여 정보 조회
+---
+
+### Use case description : 결제 및 요금  조회
 | Actor Action | System Response |
 |--------------|-----------------|
 |1. 사용자가 자전거 반납 버튼을 누른다 | 2. 자전거 대여 시간에 따른 금액을 자동결제|
