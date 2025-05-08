@@ -106,7 +106,7 @@ Extensions:
 ### Use case description : 자전거 대여정보 조회
 |Actor Action | System Response |
 |-------------|-----------------|
-|1. None | 2. 자전거 대여 정보를 반납 시간 기준 최근순으로 정렬해 출력 |
+|1.  자전거 대여정보 조회 버튼을 클릭한다 | 2. 자전거 대여 정보를 반납 시간 기준 최근순으로 정렬해 출력 |
 
 Extensions:
 - After description 2
