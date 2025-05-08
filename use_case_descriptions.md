@@ -224,14 +224,14 @@ Extensions:
 Extensions:  
 - After step 2, 선택한 대여소에 자전거가 남아있다면,  자전거 즉시 대여
 
-| Actor Action                                                        | System Response                                           |External Actor Action                                           |
+| Actor Action                               | System Response        |External Actor Action|
 |--------------------------------------------------------------------|----------------------------------------------------------|
 | 3. 회원이 '자전거 즉시 대여' 버튼을 클릭한다.| 4. '자전거 대여 완료' 메세지가 화면에 출력된다.|5. 자전거 대여 완료 내용을 담은 메세지를 회원에게 전송한다.|
 
 Extensions:  
 - After step 2, 선택한 대여소에 자전거가 남아있지 않다면,  자전거 예약 대기
 
-| Actor Action                                                        | System Response                                           |External Actor Action                                           |
+| Actor Action                                                        | System Response                       |External Actor Action              |
 |--------------------------------------------------------------------|----------------------------------------------------------|
 | 3. 회원이 '자전거 예약대기' 버튼을 클릭한다.| 4. '자전거 예약 완료' 메세지가 화면에 출력된다.|5. 자전거 예약 완료 내용을 담은 메세지를 회원에게 전송한다.|
 
