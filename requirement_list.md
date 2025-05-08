@@ -13,8 +13,8 @@
 | 이승찬 | 자전거 대여 정보 조회, 자전거 예약대기 정보 조회/취소 기능, 이용내역 조회/삭제 기능 Use Case 구현 및 Use Case Description 제작 |
 | 조수민 | 상세정보 조회 및 자전거 즉시대여/예약대기 기능, 대여소 등록/조회/삭제 기능, 자전거 등록/조회/삭제 기능 Use Case 구현 및 Use Case Description 제작 |
 
- UseCaseDiagram는 각자 생각하는 바를 그려온 뒤 회의를 통해 하나로 통합했습니다.
-Requirements List와 Description은 각자 맡아 작업 후 최종 정리를 진행했습니다. 
+- UseCaseDiagram는 각자 생각하는 바를 그려온 뒤 회의를 통해 하나로 통합했습니다. 
+- Requirements List와 Description은 각자 맡아 작업 후 최종 정리를 진행했습니다. 
 
 ---
 
