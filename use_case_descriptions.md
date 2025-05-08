@@ -1,6 +1,10 @@
-# Use case description 
+# 공유 자전거 대여 시스템 Use case description 
 
-홈 화면에서 버튼을 출력하는 System Response는 생략
+- 홈 화면에서 특정 기능 버튼을 클릭하기 전,  
+해당 버튼이 화면에 출력되는 System Response는 공통적으로 제공되므로  
+별도의 step-by-step 단계로 기술하지 않고 생략
+
+--- 
 
 ### Use case description : 회원 가입
 
@@ -55,8 +59,7 @@
 Extensions:
 
 * After step 2,  대여소 삭제
-  
- | Actor Action                                                        | System Response                     |
+  | Actor Action                                                        | System Response                     |
   |------------------------------------------|----------------------------------------------------------|
   | 3. 관리자가 삭제하고자 하는 대여소를 클릭한다.| 4. 선택한 대여소가 삭제된 전체 대여소 목록이 화면에 출력된다.|
 
