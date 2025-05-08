@@ -1,0 +1,85 @@
+git hub 주소 : https://github.com/hongik-sweng-8/sw-assignment1
+
+
+[이승찬] Fri May 9 02:15:31 2025 +0900 Update use_case_descriptions.md fd64464
+[이승찬] Fri May 9 02:13:33 2025 +0900 Update use_case_descriptions.md c43a1b0
+[이승찬] Fri May 9 02:11:28 2025 +0900 Update use_case_descriptions.md 57ba3af
+[Lagufiesta] Fri May 9 02:09:42 2025 +0900 Update requirement_list.md b7a8462
+[이승찬] Fri May 9 02:07:33 2025 +0900 Update use_case_descriptions.md 4ba93be
+[이승찬] Fri May 9 02:04:55 2025 +0900 Update use_case_descriptions.md 9af7956
+[이승찬] Fri May 9 02:03:33 2025 +0900 Update use_case_descriptions.md 890a137
+[Lagufiesta] Fri May 9 02:01:43 2025 +0900 Update use_case_descriptions.md 8d39a07
+[이승찬] Fri May 9 01:48:42 2025 +0900 Update use_case_descriptions.md b3c18a0
+[Lagufiesta] Fri May 9 01:43:47 2025 +0900 Update use_case_descriptions.md 93afa8a
+[Lagufiesta] Fri May 9 01:42:55 2025 +0900 Update use_case_descriptions.md 8c043b6
+[이승찬] Fri May 9 01:41:44 2025 +0900 Update requirement_list.md 898bf60
+[이승찬] Fri May 9 01:41:09 2025 +0900 Update requirement_list.md 5f4b649
+[이승찬] Fri May 9 01:40:43 2025 +0900 Update README.md a92575b
+[Lagufiesta] Fri May 9 01:40:36 2025 +0900 Update use_case_descriptions.md d9e939e
+[notail_] Fri May 9 01:13:08 2025 +0900 Update use_case_descriptions.md 9ebd913
+[이승찬] Fri May 9 00:55:20 2025 +0900 Update use_case_descriptions.md 설명 추가 b06d623
+[이승찬] Fri May 9 00:48:26 2025 +0900 Update use_case_descriptions.md ea6c8b1
+[이승찬] Fri May 9 00:44:24 2025 +0900 Update use_case_descriptions.md 097ce1f
+[이승찬] Fri May 9 00:35:09 2025 +0900 Update use_case_descriptions.md 4acfbd1
+[이승찬] Fri May 9 00:28:08 2025 +0900 Update use_case_descriptions.md a7099b5
+[이승찬] Fri May 9 00:26:41 2025 +0900 Update use_case_descriptions.md 8793701
+[이승찬] Fri May 9 00:26:02 2025 +0900 Update use_case_descriptions.md ebc4cd9
+[Lagufiesta] Fri May 9 00:19:44 2025 +0900 Update use_case_descriptions.md dc7e3ca
+[이승찬] Fri May 9 00:11:53 2025 +0900 fix use_case_descriptions.md d7241bf
+[이승찬] Fri May 9 00:10:37 2025 +0900 Update use_case_descriptions.md 0b628e3
+[Sumin Cho] Thu May 8 23:58:43 2025 +0900 Update use_case_descriptions.md 9749519
+[Sumin Cho] Thu May 8 23:57:28 2025 +0900 Update use_case_descriptions.md 6fbfe76
+[Sumin Cho] Thu May 8 23:56:05 2025 +0900 Update use_case_descriptions.md 20f0db8
+[Sumin Cho] Thu May 8 23:11:16 2025 +0900 Update use_case_descriptions.md 161db06
+[이승찬] Thu May 8 23:04:34 2025 +0900 Update requirement_list.md ce6a3c8
+[notail_] Thu May 8 23:02:56 2025 +0900 Update use_case_descriptions.md 4fc2321
+[Lagufiesta] Thu May 8 23:01:56 2025 +0900 Update use_case_descriptions.md c12c174
+[notail_] Thu May 8 22:55:55 2025 +0900 Update requirement_list.md 회원의 대여소 상세정보 화면 requirement 수정 b5c0bec
+[이승찬] Thu May 8 22:54:33 2025 +0900 Update requirement_list.md e0af857
+[notail_] Thu May 8 22:51:00 2025 +0900 Update requirement_list.md 기존 1~15번 use case를 화면단위로 requirements list 병합 -> 1~11 1bfbc48
+[Lagufiesta] Thu May 8 22:50:36 2025 +0900 Update use_case_descriptions.md d81c4ed
+[이승찬] Thu May 8 21:23:20 2025 +0900 Update use_case_descriptions.md e5e62bc
+[이승찬] Thu May 8 21:21:35 2025 +0900 Update requirement_list.md 5c7a480
+[chan000518] Thu May 8 21:19:51 2025 +0900 update team_worked_list 19cc660
+[chan000518] Thu May 8 21:17:16 2025 +0900 update use_case_diagram b57f9d0
+[notail_] Thu May 8 21:16:52 2025 +0900 Update use_case_descriptions.md a37dfea
+[notail_] Thu May 8 21:06:56 2025 +0900 Update requirement_list.md : contribution 기록 진행중 5d816f8
+[notail_] Thu May 8 21:05:44 2025 +0900 Update requirement_list.md contribution 정리중 17f65ed
+[notail_] Thu May 8 21:04:48 2025 +0900 Update requirement_list.md contribution 작업중 138a874
+[notail_] Thu May 8 21:03:50 2025 +0900 Update requirement_list.md contribution 정리중 38c2eae
+[notail_] Thu May 8 21:02:49 2025 +0900 Update requirement_list.md : contribution 기록 진행중 ae12708
+[notail_] Thu May 8 19:24:04 2025 +0900 Update use_case_descriptions.md 7ec066f
+[chan000518] Thu May 8 16:46:47 2025 +0900 update useCaseDiagram 14b63c8
+[Lagufiesta] Thu May 8 16:09:58 2025 +0900 Update requirement_list.md 63001c9
+[이승찬] Thu May 8 16:03:48 2025 +0900 fix use_case_descriptions: rental 34fff81
+[chan000518] Thu May 8 16:01:57 2025 +0900 update Use_case_description: rental, waitlist, history c8ec231
+[chan000518] Thu May 8 15:56:08 2025 +0900 Merge branch 'main' of https://github.com/hongik-sweng-8/sw-assignment1 959e431
+[notail_] Thu May 8 15:55:31 2025 +0900 Update requirement_list.md : semi final fbf8a9f
+[chan000518] Thu May 8 15:55:29 2025 +0900 update useCaseDiagrams 9e17334
+[chan000518] Thu May 8 15:21:25 2025 +0900 upload useCaseDiagram.pdf a36caf6
+[chan000518] Thu May 8 15:15:16 2025 +0900 update useCaseDiagram_chan 4cb42c9
+[notail_] Thu May 8 00:37:13 2025 +0900 draft to uml format 3f9362a
+[chan000518] Thu May 8 00:24:05 2025 +0900 update UseCaseDiagram 8ecd304
+[notail_] Thu May 8 00:14:06 2025 +0900 use case diagram draft 022e321
+[Lagufiesta] Wed May 7 23:02:32 2025 +0900 use case diagram (손그림 draft) eee3b63
+[Sumin Cho] Wed May 7 16:54:16 2025 +0900 Update requirement_list.md bfbf45a
+[이승찬] Wed May 7 15:39:52 2025 +0900 use_case_diagram_chan 36460b5
+[Lagufiesta] Wed May 7 15:37:25 2025 +0900 Update requirement_list.md 27b47d3
+[Lagufiesta] Wed May 7 15:31:10 2025 +0900 Update requirement_list.md e1e6f35
+[Lagufiesta] Wed May 7 15:15:38 2025 +0900 Update requirement_list.md 8a5f698
+[chan000518] Wed May 7 15:09:21 2025 +0900 Merge branch 'main' of https://github.com/hongik-sweng-8/sw-assignment1 7d65ec6
+[chan000518] Wed May 7 15:07:33 2025 +0900 Use_case_description: rental, waitlist, history 06fb8e0
+[Lagufiesta] Wed May 7 14:46:57 2025 +0900 Update requirement_list.md 6b655ec
+[이승찬] Wed May 7 14:44:55 2025 +0900 Update requirement_list.md: rental 19399fb
+[notail_] Wed May 7 14:40:55 2025 +0900 Update requirement_list.md : 대여소 선택  added 55c1eff
+[Sumin Cho] Wed May 7 14:27:57 2025 +0900 Update requirement_list.md 36e5a89
+[Sumin Cho] Wed May 7 14:17:43 2025 +0900 Update requirement_list.md 683811a
+[Sumin Cho] Wed May 7 14:17:24 2025 +0900 Update requirement_list.md 4bf3cd4
+[Sumin Cho] Wed May 7 14:17:01 2025 +0900 Update requirement_list.md c0b6c17
+[chan000518] Wed May 7 14:05:59 2025 +0900 update use_case_diagram : rental, waitlist, history 5f74930
+[이승찬] Mon May 5 04:44:44 2025 +0900 Update requirement_list.md : rental, waitlist, history 0aa8dba
+[ndn1665] Sun May 4 22:46:52 2025 +0900 uml project upload 8f18a1a
+[notail_] Sun May 4 20:18:09 2025 +0900 Update requirement_list.md log in, log out, sign up, unregister, rental station search e31cfac
+[Sumin Cho] Fri May 2 16:33:54 2025 +0900 Update requirement_list.md 164cda3
+[chan000518] Wed Apr 30 23:38:08 2025 +0900 과제 파일 생성 ddbbfaf
+[이승찬] Wed Apr 30 23:32:59 2025 +0900 Initial commit 96aecd1
