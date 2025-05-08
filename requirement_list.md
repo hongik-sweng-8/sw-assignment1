@@ -25,7 +25,7 @@
 | 노태일 | 역할 분담 내용 + UML Tool 조사, Requirements List 최종 정리 |
 | 이다윤 | 역할 분담 내용 + Classroom Q&A 분석, Usecase Description 최종정리 |
 | 이승찬 | 역할 분담 내용 + Git Organization 구성 및 Repository 초안 제작 + UseCaseDiagram 최종 정리 + git commit 히스토리 파일|
-| 조수민 | 역할 분담 내용 +  |
+| 조수민 | 역할 분담 내용 + 보고서 최종 취합|
 
 ## Requirement List
 
